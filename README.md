@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+# NAME:ARAVIND KUMAR
+# REG NO:212223220113
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
